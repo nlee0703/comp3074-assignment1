@@ -1,0 +1,4 @@
+<resources>
+    <!-- NoActionBar: each layout provides its own Toolbar, set as the ActionBar in code -->
+    <style name="Theme.Assignment1" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pay Calculator</string>
+    <string name="about">About</string>
+
+    <string name="student_name">Nicholas Lee</string>
+    <string name="student_id">Student ID: 101303788</string>
+
+    <string name="hint_hours">Number of hours worked</string>
+    <string name="hint_rate">Hourly rate</string>
+    <string name="hint_tax">Tax rate (e.g. 0.18 for 18%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="error_empty">Please fill in all fields</string>
+</resources>
